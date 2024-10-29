@@ -1,5 +1,5 @@
 # AWS-Terraform-VPC-Windowsbastion
-Week 5: Using Terraform to create a Windows Bastion with a Transit gate
+Week 6: Using Terraform to create a Windows Bastion with a Transit gate
 
 
 Overview of the first file with the configuration for the VPC's and cidr ranges
